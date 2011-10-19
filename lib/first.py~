@@ -15,8 +15,5 @@ for i in range(100):
 	for i in range(6):
 		forward(l)
 		left(s2)
-	for i in range(6):
-		forward(l)
-		right(s2)
 	
 	l = l + 20
