@@ -1,2 +1,15 @@
-*.*~
-.DS_store
+*.o
+*.lo
+*.la
+#*#
+.*.rej
+*.rej
+.*~
+*~
+.#*
+.DS_Store
+*.sw[po]
+tags
+*.pyc
+*.pyo
+**/_build/**/*.*
