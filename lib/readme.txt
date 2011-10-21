@@ -1,3 +1,3 @@
-Thank you for instal!
-This is Python Lesson for beginner.
-Please enjoy your Python life!
+FirstStep.py
+ about drowing.
+ syntax for "substitution" and "for loops".

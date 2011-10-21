@@ -1,3 +1,13 @@
 All files under public_html directory are published with Apache.
 
-This is the FastCGI sample for fluxflex.
+It is the Python Lesson for Beginner.
+You can run the Python source code in your terminal.
+The way to run is
+    $ python filename.py
+.
+
+And this App is not accomplished.
+If you have any advices, let me know how should I make it.
+(I'm Python beginner, too:(
+
+Enjoy your Python life!

@@ -1,4 +1,4 @@
-# You can see the syntax for "put a value into the cariable", "for loops".
+# You can see the syntax for "substitution" and "for loop".
 
 
 # charm to make a drowing
@@ -13,21 +13,26 @@ s2 = 60
 # for loops are the most complex loops in python.
 # the syntax of a for loop is
 #   for element in iterable:
+# range(3) means 3 times.
 for i in range(3):
-	# drow triangle shape
-	for i in range(3):
-		forward(l)
-		left(s1)
-	for i in range(3):
-		forward(l)
-		right(s1)
+    # drow triangle shape
+    for i in range(3): 
+        forward(l)
+        left(s1)
+    # this concludes one for loop instruction.
+    # the instruction is writtern with indent.
+    # Plese carefully.
 
-	# drow hexagonal shape
-	for i in range(6):
-		forward(l)
-		left(s2)
-	for i in range(6):
-		forward(l)
-		right(s2)
+    for i in range(3):
+        forward(l)
+        right(s1)
 
-	l = l + 20
+    # drow hexagonal shape
+    for i in range(6):
+        forward(l)
+        left(s2)
+    for i in range(6):
+        forward(l)
+        right(s2)
+
+    l = l + 20
