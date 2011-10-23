@@ -1,6 +1,9 @@
+# You can see how to use "argv".
+# argv is the list of command line arguments passed to a Python script.
+
+
 from turtle import *
 # charm to use argv
-# argv is the list of command line arguments passed to a Python script.
 import sys
 
 # sys.argv is the list.
