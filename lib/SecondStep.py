@@ -12,7 +12,7 @@ s = sys.argv
 # argv[0] is the script name.
 # argv[1] is the words you typed.
 print 'you ran %s.' % s[0]
-print 'And you typed %s, right?' % s[1]
+print 'And drow the triangle %s' times % s[1]
 
 # drowing - if you couldn't understand the following, check the FirstStep.py.
 loop = int(s[1])
